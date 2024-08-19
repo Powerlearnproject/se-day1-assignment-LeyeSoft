@@ -1,0 +1,7 @@
+Prompt engineering is the process of crafting precise and effective instructions or questions to elicit the best possible responses from AI models. It's important because the quality of the AI's output heavily depends on how well the prompt is structured, ensuring the AI provides relevant and accurate information.
+
+Example:
+- Vague prompt: "Tell me about technology."
+- Improved prompt: "Explain the impact of artificial intelligence on the healthcare industry in the last five years."
+
+The improved prompt is more effective because it is clear, specific, and concise, guiding the AI to focus on a particular aspect of technology (AI) and its influence in a defined context (healthcare) and timeframe (last five years), resulting in a more relevant and detailed response.
